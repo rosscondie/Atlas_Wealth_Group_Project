@@ -16,6 +16,9 @@ This project was built using:
 - TDD - Mocha | Cypress
 - Finnhub API
 
+
+<hr>
+
 <span>
 <img hspace="5" height="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
 <img hspace="5" height="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
@@ -32,11 +35,11 @@ This project was built using:
 <div align="center">
    <span>
     <kbd>
-      <img height="200px" alt="home page view" src="https://github.com/rosscondie/Atlas_Wealth_Group_Project/blob/main/client/public/homeview.png">
+      <img height="200px" alt="home page view" src="https://github.com/rosscondie/Atlas_Wealth_Group_Project/blob/main/client/public/homepageview.png">
     </kbd>
      &emsp;&emsp;
     <kbd>
-     <img height="200px" alt="view stocks page view" src="https://github.com/rosscondie/Atlas_Wealth_Group_Project/blob/main/client/public/viewpage.png">
+     <img height="200px" alt="view stocks page view" src="https://github.com/rosscondie/Atlas_Wealth_Group_Project/blob/main/client/public/singlestockview.png">
     </kbd>
      <span>
  </div>
