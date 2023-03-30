@@ -27,7 +27,21 @@ This project was built using:
 <br>
 <hr>
 
-![name](https://github.com/Neil-Burgoyne/Shares-Portfolio-Application/blob/main/Diagrams/Atlas%20Wealth%20Homepage.png)
+### Screenshots
+
+<div align="center">
+   <span>
+    <kbd>
+      <img height="200px" alt="home page view" src="https://github.com/rosscondie/Atlas_Wealth_Group_Project/blob/main/client/public/homeview.png">
+    </kbd>
+     &emsp;&emsp;
+    <kbd>
+     <img height="200px" alt="view stocks page view" src="https://github.com/rosscondie/Atlas_Wealth_Group_Project/blob/main/client/public/viewpage.png">
+    </kbd>
+     <span>
+ </div>
+
+
 
 ## Brief
 
