@@ -73,9 +73,11 @@ npm run seeds
 ```
 
 Create .env file in the server folder, add the following code and insert the API key from [Finnhub](https://finnhub.io/):
-
-API_KEY="api key"
-
+    
+    
+```
+API_KEY="your api key goes here"
+```
 Start the server:
 
 ```
