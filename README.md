@@ -57,7 +57,16 @@ A user should be able to:
 - View total current value.
 - View individual and total performance trends.
 - Retrieve a list of share prices from an external API and allow the user to add shares to her portfolio.
+- Sell individual or multiple shares from her portfolio.
 - View a chart of the current values in her portfolio.
+
+### Extensions 
+
+Possible Extensions:
+
+- Be able to view current News relating to a specifc share.
+- Setup the application for multiple users to use. 
+- Add a watched list for favourite shares.
 
 ## Project Setup
 
